@@ -1,5 +1,14 @@
-## Hi there 👋
+#Olá 👋 Meu nome é Alice Beatriz Bié
 
+*Estudante da área de TI*
+
+📍Betim, Minas Gerais - Brasil
+
+ *O que eu faço*
+ Estudo algoritmos, segurança da informação, proteção de dados, versionamento
+
+ *Além do Código*
+Gosto muito de ler e mexer no celular nas horas vagas 
 <!--
 **Alice-Beatriz-Bie/Alice-Beatriz-Bie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
