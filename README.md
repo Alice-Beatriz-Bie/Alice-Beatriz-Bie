@@ -1,4 +1,5 @@
-#Olá 👋 Meu nome é Alice Beatriz Bié
+Olá 👋 Meu nome é Alice Beatriz Bié
+---
 
 *Estudante da área de TI*
 
